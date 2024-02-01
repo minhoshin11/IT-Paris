@@ -2,7 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 
 import {Button, Navbar, Container, Nav, Row , Col} from 'react-bootstrap';
-
+//순서 정하기
+//1.홍보문구 , 2.상품명, 3.누르면 해당정보 알려주기..?
 function App() {
   return (
     <div className="App">
